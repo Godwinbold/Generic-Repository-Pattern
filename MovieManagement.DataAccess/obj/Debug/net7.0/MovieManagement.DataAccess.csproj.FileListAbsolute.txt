@@ -1,0 +1,17 @@
+C:\Users\DECAGON\Desktop\Godwin-Decagon\CUMovieManagementSwrvice\MovieManagement.DataAccess\bin\Debug\net7.0\MovieManagement.DataAccess.deps.json
+C:\Users\DECAGON\Desktop\Godwin-Decagon\CUMovieManagementSwrvice\MovieManagement.DataAccess\bin\Debug\net7.0\MovieManagement.DataAccess.runtimeconfig.json
+C:\Users\DECAGON\Desktop\Godwin-Decagon\CUMovieManagementSwrvice\MovieManagement.DataAccess\bin\Debug\net7.0\MovieManagement.DataAccess.dll
+C:\Users\DECAGON\Desktop\Godwin-Decagon\CUMovieManagementSwrvice\MovieManagement.DataAccess\bin\Debug\net7.0\MovieManagement.DataAccess.pdb
+C:\Users\DECAGON\Desktop\Godwin-Decagon\CUMovieManagementSwrvice\MovieManagement.DataAccess\bin\Debug\net7.0\MovieManagement.Domain.dll
+C:\Users\DECAGON\Desktop\Godwin-Decagon\CUMovieManagementSwrvice\MovieManagement.DataAccess\bin\Debug\net7.0\MovieManagement.Domain.pdb
+C:\Users\DECAGON\Desktop\Godwin-Decagon\CUMovieManagementSwrvice\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\DECAGON\Desktop\Godwin-Decagon\CUMovieManagementSwrvice\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\Desktop\Godwin-Decagon\CUMovieManagementSwrvice\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\DECAGON\Desktop\Godwin-Decagon\CUMovieManagementSwrvice\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.AssemblyInfo.cs
+C:\Users\DECAGON\Desktop\Godwin-Decagon\CUMovieManagementSwrvice\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\Desktop\Godwin-Decagon\CUMovieManagementSwrvice\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.csproj.CopyComplete
+C:\Users\DECAGON\Desktop\Godwin-Decagon\CUMovieManagementSwrvice\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.dll
+C:\Users\DECAGON\Desktop\Godwin-Decagon\CUMovieManagementSwrvice\MovieManagement.DataAccess\obj\Debug\net7.0\refint\MovieManagement.DataAccess.dll
+C:\Users\DECAGON\Desktop\Godwin-Decagon\CUMovieManagementSwrvice\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.pdb
+C:\Users\DECAGON\Desktop\Godwin-Decagon\CUMovieManagementSwrvice\MovieManagement.DataAccess\obj\Debug\net7.0\MovieManagement.DataAccess.genruntimeconfig.cache
+C:\Users\DECAGON\Desktop\Godwin-Decagon\CUMovieManagementSwrvice\MovieManagement.DataAccess\obj\Debug\net7.0\ref\MovieManagement.DataAccess.dll
